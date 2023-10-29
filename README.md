@@ -1,1 +1,1 @@
-# goitneo-python-hw-1-tobolovska
+# goitneo-python-hw-1-group-2
